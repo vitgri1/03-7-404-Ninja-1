@@ -12,3 +12,26 @@ padding: 0;
     margin-top: 100px;
     background-color: lightcoral;
 }
+
+.text-box{
+    float: left;
+    margin-left: 275px;
+    margin-top: 400px;
+    width: 250px;
+    background-color: #3A444E;
+    color: #fff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.heading{
+    font-size: 24px;
+    font-weight: normal;
+    line-height: 1em;
+}
+
+.description{
+    font-size: 22px;
+    line-height: 1em;
+    color: #5B6F87;
+    margin-top: 15px;
+}
