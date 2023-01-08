@@ -13,7 +13,7 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://vitgri1.github.io/
+Site published at: https://vitgri1.github.io/03-7-404-Ninja-1/
 
 Design: [Ninja](https://i.pinimg.com/736x/72/28/57/722857b9c67c42a2a8cf5d67a837be34--webdesign-inspiration-page-design.jpg)
 
